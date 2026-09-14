@@ -20,17 +20,29 @@ height: 500px
 
 
 item:
-  - title: Unveiling covert disownership after stroke. A neuropsychological and neural approach.
-    content: 'Glad to be part of this exciting new study. With Eugénie Cataldo and Roberta Ronchi, we combined neuropsychological investigation with cutting-edge connectivity analysis to investigate body ownership disorders in > 100 stroke patients.'
+  - title: How observers decode pain from facial reactions.
+    content: 'Check our new preprint about what strategies people put in place to recognize pain from facial expressions. By combining a retrospective analysis of naturalistic spontaneous pain expressions (N = 398) with a reverse correlation experiment using synthetic facial stimuli (Study 2, N = 63), we found that individuals rely on multiple distributed patterns of facial muscle contraction rather than on a single prototypic template'
     align: left
     overlay_color: 'rgba(1,1,1,0)'
     overlay_filter: 0.5
     cta_label: Read more
-    cta_url: 'https://panlab.netlify.app/publication/braincomms2025/'
+    cta_url: 'https://panlab.netlify.app/publication/psyarxiv2026/'
     cta_icon_pack: fas
     cta_icon: link
-    hero_media: 'BrainComms_GA.jpg'
+    hero_media: 'FacePain_Figure4.jpg'
     flip: false
+
+#  - title: Unveiling covert disownership after stroke. A neuropsychological and neural approach.
+#    content: 'Glad to be part of this exciting new study. With Eugénie Cataldo and Roberta Ronchi, we combined neuropsychological investigation with cutting-edge connectivity analysis to investigate body ownership disorders in > 100 stroke patients.'
+#    align: left
+#    overlay_color: 'rgba(1,1,1,0)'
+#    overlay_filter: 0.5
+#    cta_label: Read more
+#    cta_url: 'https://panlab.netlify.app/publication/braincomms2025/'
+#    cta_icon_pack: fas
+#    cta_icon: link
+#    hero_media: 'BrainComms_GA.jpg'
+#    flip: false
 
   - title: Parieto-Frontal networks mediate contextual influences in the appraisal of pain and disgust facial expressions
     content: 'New in Journal of Neuroscience! Giada Dirupo and an excellent team studied the role played by contextual information on the processing of facial expressions of pain and disgust, and associated neural responses.'
