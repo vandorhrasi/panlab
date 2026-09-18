@@ -19,7 +19,7 @@ publication_types:
 publishDate: "2025-07-25T00:00:00Z"
 slides: 
 summary:
-tags: [pain,nociception,Expectancy,Anticipation,Uncertainty,risk,decision-making,Bayesian Coding,empathy,Social cognition,Self-Other distinction,third party,Feedback,fMRI,neuroimaging,MVPA,Insula,Cingulate Cortex,ventral striatum,nucleus accumbens]
+tags: [pain,nociception,Expectancy,Anticipation,Uncertainty,risk,decision-making,Bayesian Coding,empathy,Social cognition,Self-Other distinction,third party,Feedback,fMRI,neuroimaging,MVPA,Insula,Cingulate Cortex,ventral striatum]
 title: Neural encoding of pain uncertainty is selectively amplified when inferring another’s pain
 url_code: ""
 url_dataset: ""
