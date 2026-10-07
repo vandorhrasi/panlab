@@ -27,7 +27,7 @@ url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://www.cambridge.org/core/books/abs/cambridge-handbook-of-human-affective-neuroscience/functional-mri/ABAA0039D3F08525B5C0EBEB0C693462"
 url_video: ""
 share: false
 ---
